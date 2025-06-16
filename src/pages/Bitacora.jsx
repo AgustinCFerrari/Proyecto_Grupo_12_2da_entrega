@@ -26,6 +26,17 @@ function Bitacora() {
         <li>✔️ [29/05/2025] Deploy final del proyecto en Vercel funcionando correctamente</li>
         <li>✔️ [01/06/2025] Se agregó el logo del grupo generado con IA al Sidebar</li>
       </ul>
+      <h3>📅 Segunda etapa del proyecto</h3>
+      <ul>
+        <li>✔️ [10/06/2025] Reestructuración del Sidebar con animaciones, iconos y menú expandible para perfiles.</li>
+        <li>✔️ [12/06/2025] Implementación de carrusel interactivo para mostrar proyectos del equipo.</li>
+        <li>✔️ [14/06/2025] Integración de la galería de películas con imágenes con bootstrap.</li>
+        <li>✔️ [14/06/2025] Mejora de la sección Clima consumiendo API pública, con tabla de estados climáticos de ciudades con bootstrap.</li>
+        <li>✔️ [15/06/2025] Mejora de estilos: responsividad, animaciones suaves, colores, hover y transiciones.</li>
+        <li>✔️ [16/06/2025] Revisión final de accesibilidad, pruebas en dispositivos móviles y desktop.</li>
+        <li>✔️ [16/06/2025] Historial limpio y actualizado en GitHub.</li>
+        <li>✔️ [16/06/2025] Despliegue y publicación final del proyecto en Vercel.</li>
+      </ul>
 
       <h3>🛠️ Organización y Metodología</h3>
       <p>
