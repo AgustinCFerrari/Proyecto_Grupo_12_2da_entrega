@@ -1,0 +1,70 @@
+.carrusel-container {
+  max-width: auto;
+  margin: auto;
+  text-align: center;
+  background: #f1eeee;
+}
+
+.carrusel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  overflow: hidden;
+}
+
+.slide {
+  flex-basis: 300px;
+  height: 70vh; 
+  background: linear-gradient(135deg, #fbeaff, #e0c3fc);
+  padding: 1rem;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: opacity 1s, border 0.5s, box-shadow 0.5s;
+  opacity: 0.5;
+}
+
+.slide.active {
+  opacity: 1;
+  border: 2px solid #b5179e;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.controls {
+  margin-top: 2rem;
+}
+
+.controls button {
+  margin: 0 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background: #b5179e;
+  color: white;
+  transition: background 0.5s;
+}
+
+.controls button:hover {
+  background: #72026d;
+}
+
+.dots {
+  margin-top: 2rem;
+}
+
+.dot {
+  display: inline-block;
+  height: 12px;
+  width: 12px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #b5179e;
+}

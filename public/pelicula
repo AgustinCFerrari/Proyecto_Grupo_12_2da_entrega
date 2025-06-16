@@ -1,0 +1,22 @@
+[
+  { "id": 1, "titulo": "El Viaje del Tiempo", "genero": "Ciencia Ficción", "año": 2023, "director": "Lucía Vargas", "descripcion": "Un físico viaja accidentalmente al pasado y debe arreglar su línea temporal." },
+  { "id": 2, "titulo": "Corazón de Hielo", "genero": "Drama", "año": 2021, "director": "Martín López", "descripcion": "Una historia de superación ambientada en las montañas nevadas de Patagonia." },
+  { "id": 3, "titulo": "Código Invisible", "genero": "Thriller", "año": 2022, "director": "Sofía Rivas", "descripcion": "Un hacker descubre una conspiración gubernamental al descifrar un código antiguo." },
+  { "id": 4, "titulo": "Sonrisas de Papel", "genero": "Comedia", "año": 2020, "director": "Pablo Ortega", "descripcion": "Una imprenta familiar trata de reinventarse con un hilarante giro digital." },
+  { "id": 5, "titulo": "Luna Carmesí", "genero": "Fantasía", "año": 2024, "director": "Andrea Medina", "descripcion": "Una princesa desterrada debe salvar a su reino usando magia prohibida." },
+  { "id": 6, "titulo": "Al Límite", "genero": "Acción", "año": 2019, "director": "Diego Fernández", "descripcion": "Un conductor de ambulancia enfrenta una ciudad colapsada tras un apagón masivo." },
+  { "id": 7, "titulo": "Notas de Silencio", "genero": "Musical", "año": 2021, "director": "Valentina Russo", "descripcion": "Una pianista sorda descubre cómo comunicarse con la música de otras maneras." },
+  { "id": 8, "titulo": "El Último Bosque", "genero": "Aventura", "año": 2023, "director": "Tomás Herrera", "descripcion": "Un grupo de jóvenes lucha por proteger el último bosque virgen del planeta." },
+  { "id": 9, "titulo": "Mar Abierto", "genero": "Suspenso", "año": 2020, "director": "Elena González", "descripcion": "Una pareja queda atrapada en alta mar con un pasajero desconocido a bordo." },
+  { "id": 10, "titulo": "Reencuentro", "genero": "Romance", "año": 2022, "director": "Camila Duarte", "descripcion": "Dos almas gemelas se encuentran tras décadas separados por decisiones del pasado." },
+  { "id": 11, "titulo": "Horizonte Prohibido", "genero": "Aventura", "año": 2024, "director": "Ramiro Blanco", "descripcion": "Exploradores llegan a un planeta oculto fuera del sistema solar." },
+  { "id": 12, "titulo": "La Ruta del Sur", "genero": "Road Movie", "año": 2021, "director": "Santiago Ayala", "descripcion": "Un joven recorre la Patagonia argentina redescubriendo sus raíces." },
+  { "id": 13, "titulo": "Reflejos", "genero": "Terror", "año": 2022, "director": "Clara Zambrano", "descripcion": "Los espejos de una casa antigua revelan secretos mortales de su pasado." },
+  { "id": 14, "titulo": "Virtualmente Real", "genero": "Sci-Fi", "año": 2020, "director": "Bruno Molina", "descripcion": "Jugadores quedan atrapados en un videojuego experimental sin salida aparente." },
+  { "id": 15, "titulo": "El Abrazo de la Luna", "genero": "Drama Romántico", "año": 2023, "director": "Luz Moreno", "descripcion": "Un amor imposible entre una astronauta y un botánico terrestre." },
+  { "id": 16, "titulo": "Laberinto Interior", "genero": "Psicológico", "año": 2021, "director": "Federico Ibarra", "descripcion": "Un detective investiga una serie de sueños compartidos entre extraños." },
+  { "id": 17, "titulo": "Café en Marte", "genero": "Comedia Romántica", "año": 2025, "director": "María Casal", "descripcion": "Una barista monta el primer café en Marte y se enamora de un ingeniero espacial." },
+  { "id": 18, "titulo": "Sombras del Pasado", "genero": "Misterio", "año": 2020, "director": "Luciano Vega", "descripcion": "Un escritor descubre que su última novela predice eventos reales." },
+  { "id": 19, "titulo": "La Isla del Silencio", "genero": "Suspenso", "año": 2022, "director": "Verónica Núñez", "descripcion": "Nadie que pisa la isla vuelve a hablar jamás. Un reportero busca respuestas." },
+  { "id": 20, "titulo": "Despierta", "genero": "Drama", "año": 2023, "director": "Gabriela Torres", "descripcion": "Una mujer sale de un coma tras 15 años y debe reconstruir su vida desde cero." }
+]

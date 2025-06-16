@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inception",
+    "genero": "Ciencia Ficci\u00f3n",
+    "a\u00f1o": 2010,
+    "director": "Christopher Nolan",
+    "descripcion": "Un ladr\u00f3n experto en infiltrarse en sue\u00f1os realiza una tarea imposible: implantar una idea en la mente de un magnate.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Titanic",
+    "genero": "Drama / Romance",
+    "a\u00f1o": 1997,
+    "director": "James Cameron",
+    "descripcion": "Una joven arist\u00f3crata se enamora de un artista pobre a bordo del lujoso e infortunado Titanic.",
+    "imagen": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Interstellar",
+    "genero": "Aventura / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 2014,
+    "director": "Christopher Nolan",
+    "descripcion": "Un grupo de exploradores viaja a trav\u00e9s de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "The Matrix",
+    "genero": "Acci\u00f3n / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "descripcion": "Un programador descubre la verdad oculta detr\u00e1s de su realidad simulada y se une a la rebeli\u00f3n contra sus creadores.",
+    "imagen": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "The Godfather",
+    "genero": "Crimen / Drama",
+    "a\u00f1o": 1972,
+    "director": "Francis Ford Coppola",
+    "descripcion": "La historia de la poderosa familia criminal Corleone y la transformaci\u00f3n de Michael, hijo menor de Vito Corleone.",
+    "imagen": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Pulp Fiction",
+    "genero": "Crimen / Drama",
+    "a\u00f1o": 1994,
+    "director": "Quentin Tarantino",
+    "descripcion": "Las vidas de dos matones, una esposa de g\u00e1nster y dos bandidos se entrelazan en cuatro historias de violencia y redenci\u00f3n.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "The Dark Knight",
+    "genero": "Acci\u00f3n / Crimen",
+    "a\u00f1o": 2008,
+    "director": "Christopher Nolan",
+    "descripcion": "Batman se enfrenta a su peor enemigo, el Joker, que intenta sumir a Gotham en la anarqu\u00eda.",
+    "imagen": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Forrest Gump",
+    "genero": "Drama / Romance",
+    "a\u00f1o": 1994,
+    "director": "Robert Zemeckis",
+    "descripcion": "La extraordinaria vida de un hombre simple con buen coraz\u00f3n y una perspectiva \u00fanica de los eventos hist\u00f3ricos.",
+    "imagen": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Fight Club",
+    "genero": "Drama",
+    "a\u00f1o": 1999,
+    "director": "David Fincher",
+    "descripcion": "Un oficinista insomne forma un club secreto de lucha que se convierte en algo mucho m\u00e1s grande.",
+    "imagen": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Gladiator",
+    "genero": "Acci\u00f3n / Drama",
+    "a\u00f1o": 2000,
+    "director": "Ridley Scott",
+    "descripcion": "Un general romano traicionado se convierte en gladiador y busca vengar la muerte de su familia.",
+    "imagen": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Schindler's List",
+    "genero": "Drama / Historia",
+    "a\u00f1o": 1993,
+    "director": "Steven Spielberg",
+    "descripcion": "La historia real de Oskar Schindler, quien salv\u00f3 a m\u00e1s de mil jud\u00edos durante el Holocausto.",
+    "imagen": "https://image.tmdb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "The Shawshank Redemption",
+    "genero": "Drama / Crimen",
+    "a\u00f1o": 1994,
+    "director": "Frank Darabont",
+    "descripcion": "La vida de dos prisioneros que forman un v\u00ednculo especial a lo largo de los a\u00f1os en la c\u00e1rcel de Shawshank.",
+    "imagen": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+    "genero": "Aventura / Fantas\u00eda",
+    "a\u00f1o": 2001,
+    "director": "Peter Jackson",
+    "descripcion": "Un hobbit emprende un viaje para destruir un anillo maligno con la ayuda de sus amigos.",
+    "imagen": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Star Wars: A New Hope",
+    "genero": "Aventura / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 1977,
+    "director": "George Lucas",
+    "descripcion": "Un joven granjero se une a la Rebeli\u00f3n para derrotar al malvado Imperio Gal\u00e1ctico.",
+    "imagen": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Jurassic Park",
+    "genero": "Aventura / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 1993,
+    "director": "Steven Spielberg",
+    "descripcion": "Un parque tem\u00e1tico de dinosaurios clonados se convierte en un caos cuando las criaturas escapan.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Avatar",
+    "genero": "Aventura / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 2009,
+    "director": "James Cameron",
+    "descripcion": "Un ex-marine se convierte en parte de la población alienígena de Pandora.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "The Lion King",
+    "genero": "Animaci\u00f3n / Aventura",
+    "a\u00f1o": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "descripcion": "Un joven le\u00f3n huye tras la muerte de su padre, pero luego regresa para reclamar su lugar como rey.",
+    "imagen": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Braveheart",
+    "genero": "Historia / Drama",
+    "a\u00f1o": 1995,
+    "director": "Mel Gibson",
+    "descripcion": "La historia \u00e9pica de William Wallace, quien lidera a los escoceses contra la opresi\u00f3n inglesa.",
+    "imagen": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "The Avengers",
+    "genero": "Acci\u00f3n / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 2012,
+    "director": "Joss Whedon",
+    "descripcion": "Los superh\u00e9roes m\u00e1s poderosos de la Tierra se unen para detener una amenaza global.",
+    "imagen": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "Back to the Future",
+    "genero": "Aventura / Ciencia Ficci\u00f3n",
+    "a\u00f1o": 1985,
+    "director": "Robert Zemeckis",
+    "descripcion": "Un adolescente viaja accidentalmente al pasado y debe asegurarse de que sus padres se enamoren.",
+    "imagen": "https://image.tmdb.org/t/p/w1280/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+  }
+]

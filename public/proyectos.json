@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "titulo": "Landing Page de Cafeter\u00eda",
+    "descripcion": "Dise\u00f1o de una landing page responsive para una cafeter\u00eda moderna.",
+    "tecnologias": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Gestor de Tareas",
+    "descripcion": "Aplicaci\u00f3n web para crear, editar y eliminar tareas.",
+    "tecnologias": [
+      "React",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Portafolio Personal",
+    "descripcion": "Portafolio con secciones de proyectos, experiencia y contacto.",
+    "tecnologias": [
+      "React",
+      "React Router",
+      "CSS"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Consumo de API P\u00fablica",
+    "descripcion": "Visualizaci\u00f3n de publicaciones desde JSONPlaceholder usando React.",
+    "tecnologias": [
+      "React",
+      "Fetch API"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "EcoMarket",
+    "descripcion": "Marketplace de productos ecol\u00f3gicos con sistema de geolocalizaci\u00f3n de vendedores.",
+    "tecnologias": [
+      "React",
+      "Firebase",
+      "Leaflet"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Calculadora Cient\u00edfica",
+    "descripcion": "Calculadora con funciones cient\u00edficas avanzadas.",
+    "tecnologias": [
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Blog de Recetas Saludables",
+    "descripcion": "Sitio web para compartir recetas saludables con buscador de ingredientes.",
+    "tecnologias": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Dashboard de Ventas",
+    "descripcion": "Panel administrativo para visualizar m\u00e9tricas y estad\u00edsticas de ventas en tiempo real.",
+    "tecnologias": [
+      "React",
+      "Chart.js",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "App de Clima",
+    "descripcion": "Aplicaci\u00f3n que muestra el clima actual y pron\u00f3stico utilizando una API p\u00fablica.",
+    "tecnologias": [
+      "React",
+      "OpenWeatherMap API"
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Tienda de Ropa Online",
+    "descripcion": "E-commerce de ropa con carrito de compras y pasarela de pago.",
+    "tecnologias": [
+      "React",
+      "Stripe API",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Foro de Programaci\u00f3n",
+    "descripcion": "Foro web donde los usuarios pueden publicar preguntas y respuestas de programaci\u00f3n.",
+    "tecnologias": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  }
+]

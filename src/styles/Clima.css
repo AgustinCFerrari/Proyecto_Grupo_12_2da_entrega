@@ -1,0 +1,43 @@
+.clima-container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.clima-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.clima-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.clima-table thead {
+  background: #007bff;
+  color: #fff;
+}
+
+.clima-table th,
+.clima-table td {
+  padding: 12px 16px;
+  text-align: left;
+}
+
+.clima-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.clima-table tbody tr:hover {
+  background: #e6f0ff;
+}
+
+.clima-error {
+  color: red;
+  text-align: center;
+  margin-bottom: 1rem;
+}

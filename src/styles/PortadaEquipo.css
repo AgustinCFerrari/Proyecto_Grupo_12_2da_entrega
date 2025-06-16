@@ -1,0 +1,45 @@
+.portada-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2rem;
+}
+
+.portada-titulo {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tarjetas-container {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.tarjeta-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tarjeta {
+  width: 200px;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background: #f1eeee;
+  transition: transform 0.3s ease;
+}
+
+.tarjeta:hover {
+  transform: scale(1.10);
+}
+
+.tarjeta-imagen {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.tarjeta-nombre {
+  font-size: 1.1rem;
+}
