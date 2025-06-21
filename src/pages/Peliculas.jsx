@@ -13,7 +13,7 @@ const Peliculas = () => {
   }, []);
 
   return (
-    <div className="container py-4 animate__animated animate__slideInUp">
+    <div className="container py-4 animate__animated animate__fadeInUp animate__slow">
       <h2 className="text-center mb-4">🎬 Galería de Películas</h2>
       <div className="row g-4">
         {peliculas.map(peli => (

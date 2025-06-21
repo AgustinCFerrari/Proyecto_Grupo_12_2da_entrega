@@ -36,7 +36,7 @@ function ProyectosPage() {
   const visibleIndices = proyectos.length > 0 ? getIndices() : [];
 
   return (
-    <div className="carrusel-container animate__animated animate__zoomIn">
+    <div className="carrusel-container animate__animated animate__zoomIn animate__slow">
       <h2>🧩 Proyectos del Equipo</h2>
 
       <div className="carrusel">

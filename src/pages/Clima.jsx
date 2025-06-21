@@ -36,11 +36,11 @@ const Clima = () => {
   }, []);
 
   return (
-    <div className="clima-container">
+    <div className="clima-container animate__animated animate__fadeInRight animate__delay-1s animate__slow">
       <h2>Clima Actual en Argentina</h2>
       {error && <p className="clima-error">{error}</p>}
-      <table className="table table-striped table-hover table-bordered">
-        <thead className="table-primary">
+      <table className="table table-striped table-hover table-bordered animate__animated animate__fadeInUp animate__delay-2s animate__slow">
+        <thead className="table-primary ">
           <tr>
             <th>Capitales de Provincia</th>
             <th>Temperatura (°C)</th>

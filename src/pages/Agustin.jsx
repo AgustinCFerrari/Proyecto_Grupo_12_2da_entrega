@@ -14,7 +14,7 @@ import {
 
 const Agustin = () => {
   return (
-    <div className="perfil-container animate__animated animate__fadeInRight">
+    <div className="perfil-container animate__animated animate__zoomIn animate__slow">
       <h2>Agustín Ferrari</h2>
       <img src="./images/agustin.jpg" alt="Foto de Agustin" className="perfil-imagen" />
       <h3>Habilidades en programación:</h3>

@@ -1,7 +1,7 @@
   function Bitacora() {
     return (
-      <div className="bitacora animate__animated animate__fadeInRight"> 
-        <div style={{ padding: "2rem" }}>
+      <div className="bitacora animate__animated animate__fadeInUp animate__slow"> 
+        <div style={{ padding: "2rem" }}> 
           <h2>📅 Bitácora del Proyecto</h2>
           <ul>
             <li>✔️ [09/05/2025] Reunión inicial de planificación: definición de objetivos, stack tecnológico y distribución preliminar de tareas</li>
@@ -34,6 +34,7 @@
             <li>✔️ [14/06/2025] Integración de la galería de películas con imágenes con bootstrap.</li>
             <li>✔️ [14/06/2025] Mejora de la sección Clima consumiendo API pública, con tabla de estados climáticos de ciudades con bootstrap.</li>
             <li>✔️ [15/06/2025] Mejora de estilos: responsividad, animaciones suaves, colores, hover y transiciones.</li>
+            <li>✔️ [15/06/2025] Implementacion de botones de redes sociales animados en las secciones de los perfiles</li>
             <li>✔️ [16/06/2025] Revisión de accesibilidad, pruebas en dispositivos móviles y desktop.</li>
             <li>✔️ [16/06/2025] Historial limpio y actualizado en GitHub.</li>
             <li>✔️ [16/06/2025] Despliegue y publicación final del proyecto en Vercel.</li>
