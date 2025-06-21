@@ -1,6 +1,5 @@
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import 'animate.css';
 import Sidebar from './components/Sidebar';
 import PortadaEquipo from './pages/PortadaEquipo';
 import Flavio from './pages/Flavio';

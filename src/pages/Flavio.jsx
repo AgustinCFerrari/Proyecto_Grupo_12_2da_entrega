@@ -14,7 +14,7 @@ import {
 
 const Flavio = () => {
   return (
-    <div className="perfil-container">
+    <div className="perfil-container animate__animated animate__fadeInRight">
       <h2>Flavio Benítez</h2>
       <img src="./images/flavio.jpg" alt="Foto de Flavio" className="perfil-imagen" />
       <h3>Habilidades en programación:</h3>

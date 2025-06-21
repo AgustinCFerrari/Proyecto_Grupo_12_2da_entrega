@@ -18,8 +18,8 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="sidebar">
-      <div className="logo-sidebar">
+    <div className="sidebar animate__animated animate__fadeInLeft">
+      <div className="logo-sidebar animate__animated animate__pulse">
         <img src="/images/Logo.jpg" alt="Logo Grupo Dev Frontend" />
       </div>
       <nav>

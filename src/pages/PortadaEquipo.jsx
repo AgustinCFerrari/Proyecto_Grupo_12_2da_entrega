@@ -24,8 +24,8 @@ const integrantes = [
 const PortadaEquipo = () => {
   return (
     <div className="portada-container">
-      <h1 className="portada-titulo">Bienvenidos, conozca a nuestro equipo de trabajo</h1>
-      <div className="tarjetas-container">
+      <h1 className="portada-titulo animate__animated animate__fadeInRight">Bienvenidos, conozca a nuestro equipo de trabajo</h1>
+      <div className="tarjetas-container animate__animated animate__fadeInUp">
         {integrantes.map((miembro, index) => (
           <Link key={index} to={miembro.ruta} className="tarjeta-link">
             <div className="tarjeta">
